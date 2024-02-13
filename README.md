@@ -13,3 +13,5 @@ This model is able to classify between 10 different animal categories
 
 the model currently has 65% validation accuracy
 I have also made another jupyter notebook which uses the trained model and to visualize the results of the model and annotate them onto an image I have used opencv
+
+the dataset used: https://www.kaggle.com/datasets/alessiocorrado99/animals10
